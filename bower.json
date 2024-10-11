@@ -19,7 +19,7 @@
     ],
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net": ">=1.10.9"
+        "datatables.net": "https://github.com/Gander-Malkiat/datatables.net-dt.git#master"
     },
     "moduleType": [
         "globals",
